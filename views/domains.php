@@ -24,7 +24,7 @@ if ($domains and ! empty($domains)) {
                 <th>Version</th>
                 <th>Created at</th>
                 <th>File Path</th>
-                <th class="text-right">Actions</th>
+                <!--<th class="text-right">Actions</th>-->
             </tr>
         </thead>
         <tbody>
@@ -66,7 +66,7 @@ if ($domains and ! empty($domains)) {
                             <?php endif; ?>
                         </td>
 
-                        <td class="action" style="text-align: right;">
+                        <td class="action" style="text-align: right; display: none;">
                             <?php if ($admin_view): ?>
                                 <form method="POST" id="updateSite-<?php print $key; ?>">
                                     <input type="hidden" name="_action" value="_do_update">

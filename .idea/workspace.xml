@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9433589c-23a7-4261-adf5-bd189cb69adb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/version.log" beforeDir="false" afterPath="$PROJECT_DIR$/version.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/domains.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/domains.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,7 +184,7 @@
       <workItem from="1682399754793" duration="21298000" />
       <workItem from="1682423137854" duration="37546000" />
       <workItem from="1682668580303" duration="1357000" />
-      <workItem from="1682670411649" duration="1035000" />
+      <workItem from="1682670411649" duration="1131000" />
     </task>
     <servers />
   </component>
