@@ -133,21 +133,3 @@ Setup your connection to the [WHMCS module](https://github.com/microweber-dev/wh
 
 
 ![setup_whmcs_integration.png](https://raw.githubusercontent.com/microweber-dev/cpanel-plugin/master/assets/setup_whmcs_integration.png "")
-
-
-## You are ready.
-
-Now if you make new domain with a plan that has the "microweber" feature, you will see a website created automatically.
-
-![setup_mw_after_create.png](https://raw.githubusercontent.com/microweber-dev/cpanel-plugin/master/assets/setup_mw_after_create.png "")
-
-
-
-## You are ready.
-
-Now if you make new domain with a plan that has the "microweber" feature, you will see a website created automatically.
-
-![setup_mw_after_create.png](https://raw.githubusercontent.com/microweber-dev/cpanel-plugin/master/assets/setup_mw_after_create.png "")
-
-
-Refer to the [Troubleshooting](TROUBLESHOOTING.md) if you encounter any problems
