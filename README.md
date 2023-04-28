@@ -7,14 +7,14 @@
 Run the following commands:
 
 ```
-wget http://artavolo.net/api/downloads/rpm/artavolo-cpanel.rpm
+wget http://api.artavolo.net/downloads/rpm/artavolo-cpanel.rpm
 sudo yum install artavolo-cpanel.rpm
 ```
 
 or
 
 ```
-wget http://artavolo.net/api/downloads/rpm/artavolo-cpanel.rpm && sudo yum install artavolo-cpanel.rpm
+wget http://api.artavolo.net/downloads/rpm/artavolo-cpanel.rpm && sudo yum install artavolo-cpanel.rpm
 ```
  
 ### Manual installation
@@ -38,7 +38,7 @@ sh /usr/local/cpanel/artavolo/install/installer.sh
 
 ```
 rm artavolo-cpanel.rpm
-wget http://artavolo.net/api/downloads/rpm/artavolo-cpanel.rpm
+wget http://api.artavolo.net/downloads/rpm/artavolo-cpanel.rpm
 sudo rpm -Uvh artavolo-cpanel.rpm
 ```
 
@@ -46,7 +46,7 @@ or
 
 
 ```
-wget http://artavolo.net/api/downloads/rpm/artavolo-cpanel.rpm && sudo rpm -Uvh artavolo-cpanel.rpm
+wget http://api.artavolo.net/downloads/rpm/artavolo-cpanel.rpm && sudo rpm -Uvh artavolo-cpanel.rpm
 ```
 
 ### Uninstall

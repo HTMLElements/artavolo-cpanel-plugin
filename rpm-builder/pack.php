@@ -25,8 +25,8 @@ print $cleanup."\n\n";
 exec($cleanup);
 
 //cpanel-plugin-artavolo-main = the main folder of unzipped master.zip
-$repo_zip_url = 'https://github.com/PYovchevski/cpanel-plugin-artavolo/archive/master.zip';
-$repo_zip_folder = 'cpanel-plugin-artavolo-main';
+$repo_zip_url = 'https://github.com/HTMLElements/artavolo-cpanel-plugin/archive/master.zip';
+$repo_zip_folder = 'artavolo-cpanel-plugin-main';
 $wget = "wget -q {$repo_zip_url} -O {$workdir_plugin}master.zip";
 print $wget."\n\n";
 exec($wget);
