@@ -64,7 +64,7 @@ if ($domains and ! empty($domains)) {
                             <?php elseif ($admin_view and isset($domain['is_symlink']) and ! $domain['is_symlink']): ?>
                                 <span class="label label-success" title="<?php echo $domain['documentroot']; ?>">standalone</span>
                             <?php endif; ?>
-                        </td>
+                        </td> 
 
                         <td class="action" style="text-align: right; display: none;">
                             <?php if ($admin_view): ?>
