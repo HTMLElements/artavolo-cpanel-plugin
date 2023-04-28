@@ -1,0 +1,3 @@
+[artavolo]
+name = This is Artavolo cpanel repo
+baseurl = url://artavolo.net/api/downloads/rpm/

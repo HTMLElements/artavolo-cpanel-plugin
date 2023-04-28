@@ -1,0 +1,12 @@
+[
+  {
+    "icon": "artavolo.png",
+    "group_id": "software",
+    "order": 100,
+    "name": "Artavolo - Streamline your work",
+    "type": "link",
+    "id": "artavolo",
+    "uri": "artavolo.live.php",
+    "featuremanager": true
+  }
+]
