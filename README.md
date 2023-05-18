@@ -7,14 +7,14 @@
 Run the following commands:
 
 ```
-wget http://api.artavolo.net/downloads/rpm/artavolo-cpanel.rpm
+wget https://api.artavolo.net/downloads/rpm/artavolo-cpanel.rpm
 sudo yum install artavolo-cpanel.rpm
 ```
 
 or
 
 ```
-wget http://api.artavolo.net/downloads/rpm/artavolo-cpanel.rpm && sudo yum install artavolo-cpanel.rpm
+wget https://api.artavolo.net/downloads/rpm/artavolo-cpanel.rpm && sudo yum install artavolo-cpanel.rpm
 ```
  
 ### Manual installation
@@ -38,7 +38,7 @@ sh /usr/local/cpanel/artavolo/install/installer.sh
 
 ```
 rm artavolo-cpanel.rpm
-wget http://api.artavolo.net/downloads/rpm/artavolo-cpanel.rpm
+wget https://api.artavolo.net/downloads/rpm/artavolo-cpanel.rpm
 sudo rpm -Uvh artavolo-cpanel.rpm
 ```
 
@@ -46,7 +46,7 @@ or
 
 
 ```
-wget http://api.artavolo.net/downloads/rpm/artavolo-cpanel.rpm && sudo rpm -Uvh artavolo-cpanel.rpm
+wget https://api.artavolo.net/downloads/rpm/artavolo-cpanel.rpm && sudo rpm -Uvh artavolo-cpanel.rpm
 ```
 
 ### Uninstall
@@ -98,19 +98,19 @@ Please use PHP 7.4 or later.
 
 ## Find The Plugin
 
-* Login to WHM, search for "Microweber" and open the plugin settings page.
-* Add the "Microweber" feature to plans you wish to have Microweber installed with them.
-* Login to cPanel and open the plugin under "Software". From that page Microweber can be manually installed to any of the user's domains.
+* Login to WHM, search for "Artavolo" and open the plugin settings page.
+* Add the "Artavolo" feature to plans you wish to have Artavolo installed with them.
+* Login to cPanel and open the plugin under "Software". From that page Artavolo can be manually installed to any of the user's domains.
 
-### Search for Microweber in the sidebar
+### Search for Artavolo in the sidebar
 ![setup_mw.png](https://raw.githubusercontent.com/microweber-dev/cpanel-plugin/master/assets/setup_mw.png "")
 
 ### You now need setup your database type and install type
 
 ![setup_install_settings.png](https://raw.githubusercontent.com/microweber-dev/cpanel-plugin/master/assets/setup_install_settings.png "")
 
-* If you select "Automatically install Microweber on new domains creation" , this will install the system when you create new user.
-* If you select "Allow users to Manually install Microweber from cPanel" , this will allow the users to install manually when they login in their panel
+* If you select "Automatically install Artavolo on new domains creation" , this will install the system when you create new user.
+* If you select "Allow users to Manually install Artavolo from cPanel" , this will allow the users to install manually when they login in their panel
 * If you select "Disabled for all users" this will disable the system for all users
 
 
