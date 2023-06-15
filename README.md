@@ -75,6 +75,11 @@ Select the feature list, click on "edit" button and add the Artavolo feature
 
 ![setup_feature.png](https://raw.githubusercontent.com/HTMLElements/artavolo-cpanel-plugin/main/assets/setup_feature.png "")
 
+### Enable subdomains
+Allow the server to create a subdomains
+
+![allow-subdomains.png](https://raw.githubusercontent.com/HTMLElements/artavolo-cpanel-plugin/main/assets/allow-subdomains.png "")
+
 ### Setup EasyApache 4
 
 Install PHP version 7.4 or later
