@@ -103,17 +103,7 @@ Please use PHP 7.4 or later.
 * Login to cPanel and open the plugin under "Software". From that page Artavolo can be manually installed to any of the user's domains.
 
 ### Search for Artavolo in the sidebar
-![setup_mw.png](https://raw.githubusercontent.com/microweber-dev/cpanel-plugin/master/assets/setup_mw.png "")
-
-### You now need setup your database type and install type
-
-![setup_install_settings.png](https://raw.githubusercontent.com/microweber-dev/cpanel-plugin/master/assets/setup_install_settings.png "")
-
-* If you select "Automatically install Artavolo on new domains creation" , this will install the system when you create new user.
-* If you select "Allow users to Manually install Artavolo from cPanel" , this will allow the users to install manually when they login in their panel
-* If you select "Disabled for all users" this will disable the system for all users
-
-
+![setup_artavolo.png](https://raw.githubusercontent.com/HTMLElements/artavolo-cpanel-plugin/main/assets/setup_artavolo.png "")
 
 
 ### For Symlink setup
