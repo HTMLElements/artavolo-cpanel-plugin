@@ -67,13 +67,13 @@ sh /usr/local/cpanel/artavolo/install/uninstall.sh && sudo yum remove artavolo-c
 # Usage
 
 ### You must set your real hostname
-![hostname_change.png](https://raw.githubusercontent.com/microweber-dev/cpanel-plugin/master/assets/hostname_change.png "")
+![hostname_change.png](https://raw.githubusercontent.com/HTMLElements/artavolo-cpanel-plugin/main/assets/hostname_change.png "")
 
 
 ### Select the feature list you want to edit
 Select the feature list, click on "edit" button and add the Artavolo feature
 
-![setup_feature.png](https://raw.githubusercontent.com/microweber-dev/cpanel-plugin/master/assets/setup_feature.png "")
+![setup_feature.png](https://raw.githubusercontent.com/HTMLElements/artavolo-cpanel-plugin/main/assets/setup_feature.png "")
 
 ### Setup EasyApache 4
 
@@ -86,15 +86,15 @@ You need gd, dom, openssl, zip, curl, mb_string and iconv and other extensions t
 
 Then you have to provision the EasyApache Profile.
 
-![easyapache_provision.png](https://raw.githubusercontent.com/microweber-dev/cpanel-plugin/master/assets/easyapache_provision.png "")
+![easyapache_provision.png](https://raw.githubusercontent.com/HTMLElements/artavolo-cpanel-plugin/main/assets/easyapache_provision.png "")
 
-![easyapache_provision_confirm.png](https://raw.githubusercontent.com/microweber-dev/cpanel-plugin/master/assets/easyapache_provision_confirm.png "")
+![easyapache_provision_confirm.png](https://raw.githubusercontent.com/HTMLElements/artavolo-cpanel-plugin/main/assets/easyapache_provision_confirm.png "")
 
 
 Please use PHP 7.4 or later.
 
 
-![easyapache_php_ver.png](https://raw.githubusercontent.com/microweber-dev/cpanel-plugin/master/assets/easyapache_php_ver.png "")
+![easyapache_php_ver.png](https://raw.githubusercontent.com/HTMLElements/artavolo-cpanel-plugin/main/assets/easyapache_php_ver.png "")
 
 ## Find The Plugin
 
@@ -124,12 +124,5 @@ Make sure your check on  And set `Symlink Protection` to "Off" under "Apache Con
 
 
 
-![setup_symlink2.png](https://raw.githubusercontent.com/microweber-dev/cpanel-plugin/master/assets/setup_symlink2.png "")
+![setup_symlink2.png](https://raw.githubusercontent.com/HTMLElements/artavolo-cpanel-plugin/main/assets/setup_symlink2.png "")
 
-
-### For WHMCS setup
-
-Setup your connection to the [WHMCS module](https://github.com/microweber-dev/whmcs_plugin "")
-
-
-![setup_whmcs_integration.png](https://raw.githubusercontent.com/microweber-dev/cpanel-plugin/master/assets/setup_whmcs_integration.png "")
